@@ -1,0 +1,37 @@
+		*{
+ margin : 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+body {
+    margin: 20px;
+    font-family: fantasy;
+  /*  color: #FFA07A;*/
+    background-color: oldlace;
+}
+
+
+img {
+    width: 200px;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.large {
+    width: 500px;
+}
+
+a {
+    color: forestgreen;
+}
+
+li {
+    margin-left: 50px;
+}
+
+
+
+
+@media screen and (max-width: 704px) {
+}
